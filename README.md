@@ -3,6 +3,7 @@ This is an API for ingesting SF 311 case data.
 
 ## Installation
 Ruby version -- 2.6.6
+
 Rails version -- 6.0.3.2
 
 ...
